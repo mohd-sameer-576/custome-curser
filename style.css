@@ -8,7 +8,7 @@ body{
     width: 100vw;
     background-color: #000;
     overflow: hidden;
-    cursor: none; /* Hide default cursor */
+    cursor: none;
 }
 .smallcurser{
     position: absolute;
